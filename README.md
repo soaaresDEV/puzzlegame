@@ -29,7 +29,7 @@ This application was built to reinforce my understanding of programming logic an
 1. Clone this repository:
    ```bash
    
-   git clone https://github.com/soaaresDEV/quebracabeca.git
+   git clone https://github.com/soaaresDEV/puzzlegame.git
    
 ## 📷 Screenshots
 
@@ -41,3 +41,14 @@ This application was built to reinforce my understanding of programming logic an
   <img src="https://github.com/user-attachments/assets/1b196390-4a5c-4539-9d8c-4651726667ad" alt="Puzzle Game Running" width="500"/>
 </p>
 
+---
+
+## 👨‍💻 Author
+
+**Felipe Soares** — aspiring backend developer  
+
+---
+
+## 📄 License
+
+This project is for educational purposes only and is not licensed for commercial use.
