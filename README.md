@@ -43,12 +43,6 @@ This application was built to reinforce my understanding of programming logic an
 
 ---
 
-## 👨‍💻 Author
-
-**Felipe Soares** — aspiring backend developer  
-
----
-
 ## 📄 License
 
 This project is for educational purposes only and is not licensed for commercial use.
